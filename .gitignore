@@ -1,0 +1,6 @@
+data/
+.venv/
+__pycache__/
+outputs/oulad.db
+outputs/early_clicks.csv
+outputs/student_early_activity.csv
